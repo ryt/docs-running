@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    <meta name="description" content="pace vs. weight calculator for running" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>pace vs. weight calculator</title>
+
+    <script type="text/javascript" src="vendor-labs-tool.js"></script>
+
+<script type="text/javascript">
+
+<!--//--><![CDATA[//><!--
+  var SportTracks=jQuery.extend(true,{},SportTracks,{"base_url":"","js_query":"s16zy8","text":{"Back":"< Back","Close":"Close","EnterEmail":"Enter email addresses separated by a comma","ErrorSending":"Error sending message","FindConnections":"Find Connections","Logout":"Logout","LookingToConnect":"Looking to connect to other users?","More...":"More...","MessageSent":"Message sent.","MyAccount":"My Account","MyAthletes":"My athletes","MyConnections":"My connections","Notifications":"Notifications","PersonalRecords":"Personal Records","Send":"Send","Sending":"Sending...","SendMessage":"Send Message","Subject":"Subject","datetime":{"days":[{"abbr":"Sun","full":"Sunday"},{"abbr":"Mon","full":"Monday"},{"abbr":"Tue","full":"Tuesday"},{"abbr":"Wed","full":"Wednesday"},{"abbr":"Thu","full":"Thursday"},{"abbr":"Fri","full":"Friday"},{"abbr":"Sat","full":"Saturday"}],"months":[{"abbr":"Jan","full":"January"},{"abbr":"Feb","full":"February"},{"abbr":"Mar","full":"March"},{"abbr":"Apr","full":"April"},{"abbr":"May","full":"May"},{"abbr":"Jun","full":"June"},{"abbr":"Jul","full":"July"},{"abbr":"Aug","full":"August"},{"abbr":"Sep","full":"September"},{"abbr":"Oct","full":"October"},{"abbr":"Nov","full":"November"},{"abbr":"Dec","full":"December"}],"ampm":["AM","PM"],"pattern":{"full":"E, MMMM dd, yyyy","dowShortMonthDay":"E, MMM dd","short":"MMM dd, yyyy","monthYear":"MMMM yyyy","shortMonthYear":"MMM yyyy","year":"yyyy"},"timeAbbrs":"h:m:s"}},"me":{"uid":0,"profileUrl":"","name":"Guest","notificationCount":29,"datePattern":"M\/d\/yy","timePattern":"h:mm a","isCoach":false}});
+  //--><!]]>
+</script>
+
+
+</head>
+
+  <body class="html not-front not-logged-in no-sidebars page-node page-node- node-type-labs-tool fixed-width content-page">
+        
+  <div id="page-wrapper">
+    <div id="page">
+
+    
+    <div id="main-wrapper">
+      <div id="main" class="clearfix">
+
+
+      <div id="content" class="column">
+        <div class="section">
+
+
+  <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="lab-tool-18035497" class="node node-labs-tool node-promoted clearfix" about="/labs/weight-loss-speed-impact" typeof="sioc:Item foaf:Document">
+
+  
+  <div class="labs-tool-body-wrap">
+  <div class="labs-tool-body">
+  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-wrap"><div class="field-items"><div class="field-item even" property="content:encoded">
+
+
+<style>
+
+body { font-family:myriad pro, verdana, arial; }
+body.fixed-width select, body.fixed-width input[type="text"] {
+  width: 180px;
+}
+body.fixed-width .form-item-duration input[type="text"] {
+  text-align: right;
+  width: 36px;
+}
+.labs-tool-content { padding:20px; }
+.form-item { padding:5px 0; }
+.form-item-weight #calc-weight {
+  margin-right: 0;
+  width: 110px;
+}
+.form-item-weight #calc-weightUnit {
+  width: 66px;
+}
+.form-item-duration span.units {
+  color: #888;
+  padding-right: 10px;
+}
+.calc-results-section h2 {
+  float: left;
+}
+.calc-unit-buttons {
+  float: right;
+  margin-top: 46px;
+}
+.calc-unit-buttons .button {
+  color: #888;
+  float: left;
+  font-size: 90%;
+  font-weight: bold;
+  margin-right: 2px;
+  min-width: 40px;
+  padding: 2px 8px 5px;
+}
+.calc-unit-buttons .button.selected {
+  box-shadow: inset 0 -3px #09F;
+  color: #444;
+}
+#calc-results {
+  clear: both;
+  padding: 10px 0 20px;
+}
+#calc-results .pages div {
+  margin: 20px 0;
+}
+#calc-results table {
+  min-width: 280px;
+}
+#calc-results table th {
+  background:#eee;
+  border-bottom: 1px solid #DDD;
+  width: 20%;
+  text-align:left;
+}
+#calc-results table th,
+#calc-results table td { padding:10px; }
+#calc-results table th.col-distance {
+  width: 40%;
+}
+#calc-results table tr td,
+#calc-results table tr.status-good-6 td { background-color: rgb(215,245,215); color: rgb(0,50,0); }
+#calc-results table tr.status-good-5 td { background-color: rgb(220,246,222); color: rgb(0,42,0); }
+#calc-results table tr.status-good-4 td { background-color: rgb(225,247,229); color: rgb(0,34,0); }
+#calc-results table tr.status-good-3 td { background-color: rgb(230,248,236); color: rgb(0,26,0); }
+#calc-results table tr.status-good-2 td { background-color: rgb(235,249,243); color: rgb(0,18,0); }
+#calc-results table tr.status-good-1 td { background-color: rgb(240,250,250); color: rgb(0,10,0); }
+#calc-results table tr.status-good0 td { background-color: #fff; font-weight: bold; }
+#calc-results table tr.status-bad1 td { background-color: rgb(255,245,235); color: rgb(10,0,0); }
+#calc-results table tr.status-bad2 td { background-color: rgb(255,238,230); color: rgb(20,0,0); }
+#calc-results table tr.status-bad3 td { background-color: rgb(255,231,225); color: rgb(40,0,0); }
+#calc-results table tr.status-bad4 td { background-color: rgb(255,224,220); color: rgb(60,0,0); }
+#calc-results table tr.status-bad5 td { background-color: rgb(255,217,215); color: rgb(80,0,0); }
+#calc-results table tr.status-bad6 td { background-color: rgb(255,210,210); color: rgb(100,0,0); }
+
+#calc-results .status-message {
+  color: #F66;
+  font-size: 130%;
+  font-weight: bold;
+  padding-bottom: 386px;
+}
+
+</style>
+
+<script id="calc-results-template" type="text/x-handlebars-template">
+
+{{#if valid}}
+<table class="data-table">
+  <thead>
+    <tr>
+      <th class="col-weight">Weight ({{weightUnit}})</th>
+      <th class="col-duration field-type-number">Finish Time</th>
+      <th class="col-diff field-type-number">Improvement</th>
+      <th class="col-pace field-type-number">Pace (/{{paceUnit}})</th>
+    </tr>
+  </thead>
+  <tbody>{{#each weights}}
+    <tr class="status-{{status}}">
+      <td class="col-weight">{{weight}}</td>
+      <td class="col-duration field-type-number">{{time}}</td>
+      <td class="col-diff field-type-number">{{diff}}</td>
+      <td class="col-pace field-type-number">{{pace}}</td>
+    </tr>
+  {{/each}}</tbody>
+</table>
+{{else}}
+<div class="status-message">Enter your weight.</div></div>
+{{/if}}
+
+</script>
+
+<script>
+
+window.toolsViewOnDocumentReady = function(Utils) {
+var Model = Backbone.Model.extend({
+});
+
+var View = Backbone.View.extend({
+  initialize: function() {
+    this.render();
+  },
+  events: {
+    'input .calc-input': 'refreshResults',
+    'keyup .calc-input': 'refreshResults',
+    'change .calc-input': 'refreshResults',
+    'change #calc-weightUnit': 'onWeightUnitChange',
+    'click .calc-unit-buttons .button': 'onUnitButtonClick',
+  },
+  onWeightUnitChange: function() {
+    var inputs = {};
+    _(['weight', 'weightUnit']).each(function(field) {
+      inputs[field] = this.$('#calc-' + field).val();
+    }, this);
+    if (inputs.weightUnit == 'pound') {
+      inputs.weight *= 2.20462;
+    } else {
+      inputs.weight /= 2.20462;
+    }
+    this.$('#calc-weight').val(inputs.weight.toFixed());
+    this.render();
+  },
+  onUnitButtonClick: function(event) {
+    var $btn = jQuery(event.currentTarget);
+    this.model.set({units: $btn.data('id')});
+    this.render();
+  },
+  render: function() {
+    this.refreshUnits();
+    this.refreshResults();
+    return this;
+  },
+  refreshUnits: function() {
+    var units = this.model.get('units');
+    this.$('.calc-unit-buttons .button').removeClass('selected');
+    this.$(".calc-unit-buttons .button[data-id='" + units + "']").addClass('selected');
+  },
+  refreshResults: function() {
+    var inputs = {};
+    _(['distance', 'weight', 'weightUnit']).each(function(field) {
+      inputs[field] = this.$('#calc-' + field).val();
+    }, this);
+    _(['hours', 'minutes', 'seconds']).each(function(field) {
+      inputs[field] = Math.max(0, this.$('#calc-duration-' + field).val() | 0);
+    }, this);
+    inputs.time = (inputs.hours * 60 + inputs.minutes) * 60 + inputs.seconds;
+    inputs.weight = parseFloat(inputs.weight);
+
+    var units = this.model.get('units');
+    var paceMult = units == 'us' ? 1609.34 : 1000;
+    
+    var info = {
+      pound: {increment: 2, range: [50, 500]},
+      kilogram: {increment: 1, range: [30, 300]}
+    };
+    info = info[inputs.weightUnit];
+    
+    var results = {
+      valid: inputs.weight >= info.range[0] && inputs.weight <= info.range[1],
+      weightUnit: this.$('#calc-weightUnit option:selected').text(),
+      paceUnit: units == 'us' ? 'mi' : 'km',
+      weights: []
+    }
+    
+    if (results.valid) {
+      var minutes = inputs.time/60;
+      var meters = inputs.distance;
+      var speed = meters/minutes;
+      var percentMax = 0.8+0.1894393*Math.exp(-0.012778*minutes)+0.2989558*Math.exp(-0.1932605*minutes);
+      var vo2max = (-4.6+0.182258*speed+0.000104*Math.pow(speed,2))/percentMax;
+      for(var i = -40; i <= 6; i++) { /* start at much lower than -6 */
+        var weight = inputs.weight + i*info.increment;
+        var adjvo2 = vo2max * inputs.weight / weight;
+        var seconds = (meters*0.000208)/(-0.182258+Math.sqrt(Math.pow(0.182258,2)-4*0.000104*(-4.6-percentMax*adjvo2)))*60;
+        var diff = seconds - inputs.time;
+        var pace = paceMult * seconds / meters;
+        results.weights.push({
+          weight: weight,
+          seconds: seconds,
+          time: Utils.Time.toText(seconds, true, meters < 1000),
+          diff: i == 0 ? '-' : Utils.Time.toText(diff, true, meters < 1000, true),
+          status: (i > 0 ? 'bad' : 'good') + i,
+          pace: Utils.Time.toText(pace, true),
+        });
+      }
+    }
+    
+    this.$('#calc-results').html(Handlebars.compile(jQuery('#calc-results-template').html())(results));
+  },
+});
+
+var model = new Model({
+  units: 'us'
+});
+var view = new View({el: jQuery('#content .content .labs-tool-content'), model:model});
+
+};
+
+</script>
+
+<div class="labs-tool-content">
+  <div class="calc-description">
+    <p>Pace vs. Weight Calculator Source: <i>https://sporttracks.mobi/labs/weight-loss-speed-impact</i> </p>
+  </div>
+  
+  <div class="calc-input-form">
+    <h2>Current Information</h2>
+    <form>
+      <div class="form-item form-type-input form-item-weight">
+        <label for="calc-weight">Weight</label>
+        <input type="text" class="calc-input" id="calc-weight" value="150" />
+        <select id="calc-weightUnit" name="calc-weightUnit" class="form-select">
+<option value='pound' selected='selected'>lbs</option><option value='kilogram'>kg</option>        </select>
+      </div>
+      <div class="form-item form-type-select form-item-distance">
+        <label for="calc-distance">Distance</label>
+        <select id="calc-distance" name="calc-distance" class="calc-input form-select">
+<option value='100'>100 m</option><option value='200'>200 m</option><option value='400'>400 m</option><option value='500'>500 m</option><option value='800'>800 m</option><option value='1000'>1000 m</option><option value='1500'>1500 m</option><option value='1609'>1 mile</option><option value='2000'>2 km</option><option value='3000'>3 km</option><option value='3218'>2 miles</option><option value='4000'>4 km</option><option value='4828'>3 miles</option><option value='5000' selected='selected'>5 km</option><option value='8000'>8 km</option><option value='8046'>5 miles</option><option value='10000'>10 km</option><option value='12000'>12 km</option><option value='15000'>15 km</option><option value='16093'>10 miles</option><option value='21097'>Half marathon</option><option value='42194'>Marathon</option>        </select>
+      </div>
+      <div class="form-item form-type-input form-item-duration">
+        <label for="calc-duration-hours">Time</label>
+        <input type="text" class="calc-input" id="calc-duration-hours" value="0" /><span class="units">h</span>
+        <input type="text" class="calc-input" id="calc-duration-minutes" value="30" /><span class="units">m</span>
+        <input type="text" class="calc-input" id="calc-duration-seconds" value="0" /><span class="units">s</span>
+      </div>
+    </form>
+  </div>
+  
+  <div class="calc-results-section">
+    <h2>Predicted Race Performance</h2>
+    <div class="calc-unit-buttons">
+      <div class='button selected' data-id='us'>US</div>
+      <div class='button ' data-id='metric'>Metric</div>
+    </div>
+    <div id="calc-results"></div>
+  </div>
+
+</div></div></div>
+</div></div></div>
+
+  </div>
+  
+
+  
+</div>
+  </div>
+</div>
+  </div>
+
+              </div></div> <!-- /.section, /#content -->
+
+    </div></div> <!-- /#main, /#main-wrapper -->
+        
+  </div></div> <!-- /#page, /#page-wrapper -->
+</body>
+
+</html>
