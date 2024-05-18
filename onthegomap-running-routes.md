@@ -10,11 +10,14 @@
 -   5mi, fanuel west bay loop, [otg map](https://onthegomap.com/s/ebm4udnu)
 -   5mi, lake jennings via harrit rd. loop, [otg map](https://onthegomap.com/s/3mo12a04)
 -   5.45mi, crown pt west bay loop, [otg map](https://onthegomap.com/s/vm99vac2)
+-   6.25mi, lake murray w mission golf tangent & back 10k, [otg map](https://onthegomap.com/s/sjt3b34s)
 -   6.28mi, torrey pines all overlooks & back 10k, [otg map](https://onthegomap.com/s/u810n8v7)
 -   6.5mi, rohr to bonita golf & back 10k, [otg map](https://onthegomap.com/s/gbc30a1n)
 -   6.56mi, crown pt west bay loop w riviera 10k, [otg map](https://onthegomap.com/s/kbsfeucs)
+-   7.1mi, lake murray from entrance & back 10k+, [otg map](https://onthegomap.com/s/b5d981kj)
 -   7.77mi, crown pt west bay + south mission loop, [otg map](https://onthegomap.com/s/137eu6q5)
 -   8.1mi, crown pt east bay loop, [otg map](https://onthegomap.com/s/gusijbdo)
+-   8.25mi, torrey pines all overlooks + overlaps & back, [otg map](https://onthegomap.com/s/u60bh728)
 -   8.5mi, crown pt west bay + south mission loop, [otg map](https://onthegomap.com/s/qi8l114l)
 -   8.75mi, crown pt west bay + south mission to pb loop, [otg map](https://onthegomap.com/s/c45s51bd)
 -   13.2mi, crown pt east + west bay to fanuel half marathon, [otg map](https://onthegomap.com/s/gg0s878f)
@@ -27,7 +30,7 @@
 
 **experimental routes**
 
-- 4mi, (old neighborhood) kenwood albertsons to bancroft lamar casa de oro round, [otg map](https://onthegomap.com/s/0eo34him)
+- 4mi, (old neighborhood) kenwood albrtsns to bncrft lamar casa de oro round, [otg map](https://onthegomap.com/s/0eo34him)
 
 
 <!--
