@@ -22,6 +22,7 @@
 -   8.75mi, crown pt west bay + south mission to pb loop, [otg map](https://onthegomap.com/s/c45s51bd)
 -   13.2mi, crown pt east + west bay to fanuel half marathon, [otg map](https://onthegomap.com/s/gg0s878f)
 -   14.5mi, crown pt east + west bay loop 14.5mi, [otg map](https://onthegomap.com/s/5d670u5r)
+-   26.4mi, coronado silver strand marathon & back, [otg map](https://onthegomap.com/s/8jf06516)
 
 --
 -   mission trails map: [2023map.pdf](https://mtrp.org/wp-content/uploads/2023/05/MTRP_Trail_Map_2023-5.pdf)
