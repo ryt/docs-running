@@ -40,9 +40,10 @@
 
 --
 
-**east county**
+**east county (spring valley)**
 
-1. [4mi](https://onthegomap.com/s/0eo34him), (spring valley) kenwood bncrft lamar casa de oro round
+1. [4mi](https://onthegomap.com/s/0eo34him), casa de oro kenwood bncrft lamar 4mi round
+1. [5.55mi](https://onthegomap.com/s/l4v1fr5v), svms to mvhs & lamar kenwood round 5.5mi
 
 
 <!--
