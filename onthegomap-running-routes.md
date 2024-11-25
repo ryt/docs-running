@@ -8,13 +8,15 @@
 1. [3.2mi](https://onthegomap.com/s/a0tie88m), ski beach to crwn pt w riviera & back 5k
 1. [3.25mi](https://onthegomap.com/s/e4hv5upf), fanuel to pb boardwalk 5k
 1. [3.4mi](https://onthegomap.com/s/ht200o4a), crown pt to dana landing & back 5k+
+1. [3.4mi](https://onthegomap.com/s/nd89tm56), south mission bay boardwalk loop
 1. [3.5mi](https://onthegomap.com/s/qmndd2gh), ob skate to dog beach to quivira & back 5k+
 1. [4mi](https://onthegomap.com/s/r02jqcgh), mission trails mid alt (.3-1k) trail loop
 1. [4.7mi](https://onthegomap.com/s/4c198977), lake murray & golf
 1. [5mi](https://onthegomap.com/s/uhfs3ghb), morley pershing balboa city vollege
 1. [5mi](https://onthegomap.com/s/ebm4udnu), fanuel west bay loop
 1. [5mi](https://onthegomap.com/s/3mo12a04), lake jennings via harrit rd. loop
-1. [5.3mi](https://onthegomap.com/s/5nq6r444), balboa
+1. [5mi](https://onthegomap.com/s/pcvcevjf), crown pt to east bay de anza & back 5mi
+1. [5.3mi](https://onthegomap.com/s/5nq6r444), balboa pershing park blvd city college loop
 1. [5.45mi](https://onthegomap.com/s/vm99vac2), crown pt west bay loop
 1. [6.25mi](https://onthegomap.com/s/sjt3b34s), lake murray w mission golf tangent & back 10k
 1. [6.28mi](https://onthegomap.com/s/u810n8v7), torrey pines all overlooks & back 10k
