@@ -2,7 +2,7 @@
 
 **san diego county routes**
 
-1. [3.11mi](https://onthegomap.com/s/k4nskpoe), morley field nationals 5k
+1. [3.11mi](https://onthegomap.com/s/o85rfrh1), morley field nationals 5k
 1. [3.15mi](https://onthegomap.com/s/n2d3m1j9), rohr park loop 5k
 1. [3.12mi](https://onthegomap.com/s/hblgqj4l), balboa 6th ave 5k
 1. [3.15mi](https://onthegomap.com/s/emk0kl80), sd zoo balboa el prado 5k
