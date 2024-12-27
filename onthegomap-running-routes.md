@@ -20,6 +20,7 @@
 1. [5.3mi](https://onthegomap.com/s/5nq6r444), balboa pershing park blvd city college loop
 1. [5.45mi](https://onthegomap.com/s/vm99vac2), crown pt west bay loop
 1. [6.25mi](https://onthegomap.com/s/sjt3b34s), lake murray w mission golf tangent & back 10k
+1. [6.26mi](https://onthegomap.com/s/fi9a9tu4), fanuel south mission pb boardwalk 10k
 1. [6.28mi](https://onthegomap.com/s/u810n8v7), torrey pines all overlooks & back 10k
 1. [6.34mi](https://onthegomap.com/s/l6ehlalt), crown pt west mission bay loop w mission beach
 1. [6.5mi](https://onthegomap.com/s/5vbarmsi), lake murray & golf
