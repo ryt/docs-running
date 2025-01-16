@@ -1,5 +1,10 @@
 #### san diego county (onthegomap) running routes
 
+--
+- related: san diego running overview ([google maps](https://www.google.com/maps/d/u/0/viewer?mid=17YqyAbOpyHHvkOpyMS7ucyggIrQ&ll=32.69036229478354%2C-117.12873553775536&z=12))
+
+--
+
 **san diego county routes**
 
 1. [3.11mi](https://onthegomap.com/s/o85rfrh1), morley field nationals 5k
@@ -17,6 +22,7 @@
 1. [5mi](https://onthegomap.com/s/ebm4udnu), fanuel west bay loop
 1. [5mi](https://onthegomap.com/s/3mo12a04), lake jennings via harrit rd. loop
 1. [5mi](https://onthegomap.com/s/pcvcevjf), crown pt to east bay de anza & back 5mi
+1. [5.2mi](https://onthegomap.com/s/juppvcki), coronado centennial to coast & orange loop
 1. [5.3mi](https://onthegomap.com/s/5nq6r444), balboa pershing park blvd city college loop
 1. [5.45mi](https://onthegomap.com/s/vm99vac2), crown pt west bay loop
 1. [6.25mi](https://onthegomap.com/s/sjt3b34s), lake murray w mission golf tangent & back 10k
@@ -33,6 +39,7 @@
 1. [8.25mi](https://onthegomap.com/s/u60bh728), torrey pines all overlooks + overlaps & back
 1. [8.5mi](https://onthegomap.com/s/qi8l114l), crown pt west bay + south mission loop
 1. [8.75mi](https://onthegomap.com/s/c45s51bd), crown pt west bay + south mission to pb loop
+1. [11.5mi](https://onthegomap.com/s/sp52q6tg), coronado island full loop via centennial park
 1. [13.2mi](https://onthegomap.com/s/gg0s878f), crown pt east + west bay to fanuel half marathon
 1. [14.5mi](https://onthegomap.com/s/5d670u5r), crown pt east + west bay loop 14.5mi
 1. [26.4mi](https://onthegomap.com/s/8jf06516), coronado silver strand round & back marathon
