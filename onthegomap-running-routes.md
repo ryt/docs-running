@@ -7,6 +7,11 @@
 
 **san diego county routes**
 
+1. [1.2mi](https://onthegomap.com/s/svfdgi2c) la mesita park 2 loops
+1. [1.5mi](https://onthegomap.com/s/q6porn63) amaya severin ghs loop
+1. [2mi](https://onthegomap.com/s/l1shgtq4) la mesita + pkwy middle loop
+1. [2mi](https://onthegomap.com/s/r18ajdgc) harry griffen ghs loop
+1. [3.11mi](https://onthegomap.com/s/jsgsmdeb) la mesita to northmont & back 5k
 1. [3.11mi](https://onthegomap.com/s/o85rfrh1), morley field nationals 5k
 1. [3.15mi](https://onthegomap.com/s/n2d3m1j9), rohr park loop 5k
 1. [3.12mi](https://onthegomap.com/s/hblgqj4l), balboa 6th ave 5k
